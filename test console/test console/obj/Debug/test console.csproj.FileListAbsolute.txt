@@ -1,0 +1,6 @@
+c:\users\poer com\documents\visual studio 2013\Projects\test console\test console\bin\Debug\test console.exe.config
+c:\users\poer com\documents\visual studio 2013\Projects\test console\test console\bin\Debug\test console.exe
+c:\users\poer com\documents\visual studio 2013\Projects\test console\test console\bin\Debug\test console.pdb
+c:\users\poer com\documents\visual studio 2013\Projects\test console\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+c:\users\poer com\documents\visual studio 2013\Projects\test console\test console\obj\Debug\test console.exe
+c:\users\poer com\documents\visual studio 2013\Projects\test console\test console\obj\Debug\test console.pdb
